@@ -29,7 +29,7 @@ initial
   #2S1=0; S0=1;
   #2S1=1; S0=0;
   #2S1=1; S0=1;  
-  #2S1=1; S0=0;  
+  
   end
   
   initial
