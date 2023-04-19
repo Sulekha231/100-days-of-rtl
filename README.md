@@ -1,5 +1,6 @@
 # 100-days-of-rtl
 Hello my name is Sulekha.
+
 Welcome to my #100DaysOfRTL challenge! For the next 100 days, I will be dedicating time each day to learn and practice RTL design.
 
 # Goals
