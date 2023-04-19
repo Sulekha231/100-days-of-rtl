@@ -31,4 +31,10 @@ initial
   #2S1=1; S0=1;  
   end
   
+  initial
+    begin
+      $dumpfile("dump.vcd");
+      $dumpvars;
+    end
+  
 endmodule
