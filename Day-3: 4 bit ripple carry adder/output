@@ -1,0 +1,17 @@
+A=0110, B=1100, CI=1, SUM=0011, CARRY=1                   0
+A=0010, B=1011, CI=1, SUM=1110, CARRY=0                   5
+A=0000, B=0111, CI=0, SUM=0111, CARRY=0                  10
+A=1011, B=0101, CI=0, SUM=0000, CARRY=1                  15
+A=1110, B=0101, CI=1, SUM=0100, CARRY=1                  20
+A=0010, B=0110, CI=1, SUM=1001, CARRY=0                  25
+A=0100, B=1010, CI=0, SUM=1110, CARRY=0                  30
+A=1111, B=1111, CI=0, SUM=1110, CARRY=1                  35
+A=0111, B=1000, CI=1, SUM=0000, CARRY=1                  40
+A=1100, B=1110, CI=1, SUM=1011, CARRY=1                  45
+A=1011, B=1100, CI=0, SUM=0111, CARRY=1                  50
+A=0111, B=0000, CI=1, SUM=1000, CARRY=0                  55
+A=1010, B=0010, CI=0, SUM=1100, CARRY=0                  60
+A=1001, B=1100, CI=1, SUM=0110, CARRY=1                  65
+A=1111, B=0010, CI=0, SUM=0001, CARRY=1                  70
+A=1111, B=0101, CI=1, SUM=0101, CARRY=1                  75
+
