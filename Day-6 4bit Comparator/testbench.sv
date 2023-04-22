@@ -7,13 +7,14 @@ module tb;
   
  initial
    begin
-      for(int i=0; i<16; i++)
+     
+     for(int i=0; i<256; i++)
      begin
-      A=$urandom;
-      B=$urandom;
+      A=$random;
+      B=$random;
       #5;
      end
-    
+
    end
   
   initial
