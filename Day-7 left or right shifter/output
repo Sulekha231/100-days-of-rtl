@@ -4,4 +4,5 @@ left shift address by 1 is: 00000000000000000000000000001010                   2
 right shift address by 1 is: 00000000000000000000000000000010                   2
 left shift address by 1 is: 00111101010101100111000100110100                   4
 right shift address by 1 is: 01001111010101011001110001001101                   4
-
+left shift address by 1 is: 10100101010001100111011100110000                   6
+right shift address by 1 is: 01101001010100011001110111001100                   6
