@@ -1,0 +1,7 @@
+left shift address by 1 is: 00000000000000000000000000010010                   0
+right shift address by 1 is: 00000000000000000000000000000100                   0
+left shift address by 1 is: 00000000000000000000000000001010                   2
+right shift address by 1 is: 00000000000000000000000000000010                   2
+left shift address by 1 is: 00111101010101100111000100110100                   4
+right shift address by 1 is: 01001111010101011001110001001101                   4
+
