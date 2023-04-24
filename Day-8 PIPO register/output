@@ -1,0 +1,7 @@
+X=1011                   0
+Q=xxxx, CLK=0, RESET=0                   0
+Q=0000, CLK=1, RESET=1                   2
+Q=0000, CLK=0, RESET=1                   4
+Q=1011, CLK=1, RESET=0                   6
+Q=1011, CLK=0, RESET=1                   8
+Q=0000, CLK=1, RESET=1                  10
