@@ -1,0 +1,10 @@
+CLK=0, RESET=x, DIN=x, DOUT=x                   0
+CLK=1, RESET=0, DIN=1, DOUT=1                   2
+CLK=0, RESET=0, DIN=1, DOUT=1                   4
+CLK=1, RESET=0, DIN=0, DOUT=0                   6
+CLK=0, RESET=0, DIN=0, DOUT=0                   8
+CLK=1, RESET=0, DIN=1, DOUT=1                  10
+CLK=0, RESET=0, DIN=1, DOUT=1                  12
+CLK=1, RESET=1, DIN=1, DOUT=1                  14
+CLK=0, RESET=1, DIN=1, DOUT=1                  16
+CLK=1, RESET=1, DIN=1, DOUT=1                  18
