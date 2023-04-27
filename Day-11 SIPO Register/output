@@ -1,0 +1,10 @@
+CLK=0, RESET=x, DIN=x, Q=xxxx                   0
+CLK=1, RESET=1, DIN=x, Q=0000                   2
+CLK=0, RESET=1, DIN=x, Q=0000                   4
+CLK=1, RESET=0, DIN=1, Q=1000                   6
+CLK=0, RESET=0, DIN=1, Q=1000                   8
+CLK=1, RESET=0, DIN=0, Q=0100                  10
+CLK=0, RESET=0, DIN=0, Q=0100                  12
+CLK=1, RESET=0, DIN=0, Q=0010                  14
+CLK=0, RESET=0, DIN=0, Q=0010                  16
+CLK=1, RESET=0, DIN=1, Q=1001                  18
