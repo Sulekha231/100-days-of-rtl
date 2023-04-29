@@ -1,7 +1,7 @@
 //testbench
 module tb;
   reg CLR,CLK;
-  wire [3:0] COUNT;
+  int COUNT;
   
   As_up counter(CLR,CLK,COUNT);
   
@@ -13,9 +13,9 @@ module tb;
   
   initial
     begin
-      $monitor("CLK=%d, CLR=%d, COUNT=%d",CLK,CLR,COUNT,$time);
-      CLR=1;
+      $monitor("CLK=%d, CLR=%d, COUNT=%0d",CLK,CLR,COUNT,$time);
       #2CLR=0;
+      #100 CLR=1;
     end
   
   initial
