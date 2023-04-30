@@ -1,0 +1,50 @@
+CLK=0  CLR=1  COUNT= x                     0
+CLK=1  CLR=1  COUNT= 0                     2
+CLK=0  CLR=1  COUNT= 0                     4
+CLK=1  CLR=0  COUNT= 8                     6
+CLK=0  CLR=0  COUNT= 8                     8
+CLK=1  CLR=0  COUNT=12                    10
+CLK=0  CLR=0  COUNT=12                    12
+CLK=1  CLR=0  COUNT=14                    14
+CLK=0  CLR=0  COUNT=14                    16
+CLK=1  CLR=0  COUNT=15                    18
+CLK=0  CLR=0  COUNT=15                    20
+CLK=1  CLR=0  COUNT= 7                    22
+CLK=0  CLR=0  COUNT= 7                    24
+CLK=1  CLR=0  COUNT= 3                    26
+CLK=0  CLR=0  COUNT= 3                    28
+CLK=1  CLR=0  COUNT= 1                    30
+CLK=0  CLR=0  COUNT= 1                    32
+CLK=1  CLR=0  COUNT= 0                    34
+CLK=0  CLR=0  COUNT= 0                    36
+CLK=1  CLR=0  COUNT= 8                    38
+CLK=0  CLR=0  COUNT= 8                    40
+CLK=1  CLR=0  COUNT=12                    42
+CLK=0  CLR=0  COUNT=12                    44
+CLK=1  CLR=0  COUNT=14                    46
+CLK=0  CLR=0  COUNT=14                    48
+CLK=1  CLR=0  COUNT=15                    50
+CLK=0  CLR=0  COUNT=15                    52
+CLK=1  CLR=0  COUNT= 7                    54
+CLK=0  CLR=0  COUNT= 7                    56
+CLK=1  CLR=0  COUNT= 3                    58
+CLK=0  CLR=0  COUNT= 3                    60
+CLK=1  CLR=0  COUNT= 1                    62
+CLK=0  CLR=0  COUNT= 1                    64
+CLK=1  CLR=0  COUNT= 0                    66
+CLK=0  CLR=0  COUNT= 0                    68
+CLK=1  CLR=0  COUNT= 8                    70
+CLK=0  CLR=0  COUNT= 8                    72
+CLK=1  CLR=0  COUNT=12                    74
+CLK=0  CLR=0  COUNT=12                    76
+CLK=1  CLR=0  COUNT=14                    78
+CLK=0  CLR=0  COUNT=14                    80
+CLK=1  CLR=0  COUNT=15                    82
+CLK=0  CLR=0  COUNT=15                    84
+CLK=1  CLR=1  COUNT= 0                    86
+CLK=0  CLR=1  COUNT= 0                    88
+CLK=1  CLR=1  COUNT= 0                    90
+CLK=0  CLR=1  COUNT= 0                    92
+CLK=1  CLR=1  COUNT= 0                    94
+CLK=0  CLR=1  COUNT= 0                    96
+CLK=1  CLR=1  COUNT= 0                    98
