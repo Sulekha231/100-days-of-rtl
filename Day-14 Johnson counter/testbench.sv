@@ -13,13 +13,14 @@ module tb;
       $monitor("CLK=%b  CLR=%b  COUNT=%d  ",CLK,CLR,COUNT,$time);
        CLR=1;
       #6 CLR=0;
+      #80 CLR=1;
     end
    
   initial
     begin
       $dumpfile("dump.vcd");
       $dumpvars;
-      #50 $finish;
+      #100 $finish;
     end
   
 endmodule
