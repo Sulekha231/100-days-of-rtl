@@ -30,6 +30,8 @@ EDA playground
 
 I'm excited to begin this challenge and look forward to sharing my progress with you all!
 
+# Here the list of day wise code 
 
+Day-15 4 bit Synchronous up/down counter -https://www.edaplayground.com/x/GTie
 
 
