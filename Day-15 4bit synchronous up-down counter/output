@@ -1,0 +1,50 @@
+clk=0, up_count= 0,down_count= 0                   0
+clk=1, up_count= 0,down_count=15                   2
+clk=0, up_count= 0,down_count=15                   4
+clk=1, up_count= 0,down_count=14                   6
+clk=0, up_count= 0,down_count=14                   8
+clk=1, up_count= 0,down_count=13                  10
+clk=0, up_count= 0,down_count=13                  12
+clk=1, up_count= 0,down_count=12                  14
+clk=0, up_count= 0,down_count=12                  16
+clk=1, up_count= 0,down_count=11                  18
+clk=0, up_count= 0,down_count=11                  20
+clk=1, up_count= 0,down_count=10                  22
+clk=0, up_count= 0,down_count=10                  24
+clk=1, up_count= 0,down_count= 9                  26
+clk=0, up_count= 0,down_count= 9                  28
+clk=1, up_count= 0,down_count= 8                  30
+clk=0, up_count= 0,down_count= 8                  32
+clk=1, up_count= 0,down_count= 7                  34
+clk=0, up_count= 0,down_count= 7                  36
+clk=1, up_count= 0,down_count= 6                  38
+clk=0, up_count= 0,down_count= 6                  40
+clk=1, up_count= 0,down_count= 5                  42
+clk=0, up_count= 0,down_count= 5                  44
+clk=1, up_count= 0,down_count= 4                  46
+clk=0, up_count= 0,down_count= 4                  48
+clk=1, up_count= 1,down_count= 4                  50
+clk=0, up_count= 1,down_count= 4                  52
+clk=1, up_count= 2,down_count= 4                  54
+clk=0, up_count= 2,down_count= 4                  56
+clk=1, up_count= 3,down_count= 4                  58
+clk=0, up_count= 3,down_count= 4                  60
+clk=1, up_count= 4,down_count= 4                  62
+clk=0, up_count= 4,down_count= 4                  64
+clk=1, up_count= 5,down_count= 4                  66
+clk=0, up_count= 5,down_count= 4                  68
+clk=1, up_count= 6,down_count= 4                  70
+clk=0, up_count= 6,down_count= 4                  72
+clk=1, up_count= 7,down_count= 4                  74
+clk=0, up_count= 7,down_count= 4                  76
+clk=1, up_count= 8,down_count= 4                  78
+clk=0, up_count= 8,down_count= 4                  80
+clk=1, up_count= 9,down_count= 4                  82
+clk=0, up_count= 9,down_count= 4                  84
+clk=1, up_count=10,down_count= 4                  86
+clk=0, up_count=10,down_count= 4                  88
+clk=1, up_count=11,down_count= 4                  90
+clk=0, up_count=11,down_count= 4                  92
+clk=1, up_count=12,down_count= 4                  94
+clk=0, up_count=12,down_count= 4                  96
+clk=1, up_count=13,down_count= 4                  98
