@@ -1,6 +1,6 @@
-CLK=0,  RESET=x, T=x, Q=x                   0
+CLK=0,  RESET=x, T=x, Q=0                   0
 CLK=1,  RESET=0, T=0, Q=0                   2
 CLK=0,  RESET=0, T=0, Q=0                   4
-CLK=1,  RESET=0, T=1, Q=1                   6
-CLK=0,  RESET=0, T=1, Q=1                   8
-CLK=1,  RESET=1, T=0, Q=0                  10
+CLK=1,  RESET=1, T=1, Q=1                   6
+CLK=0,  RESET=1, T=1, Q=1                   8
+CLK=1,  RESET=0, T=0, Q=1                  10
