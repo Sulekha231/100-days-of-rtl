@@ -17,8 +17,8 @@ module tb;
     begin
       $monitor("CLK=%b,  RESET=%b, T=%b, Q=%b",CLK,RESET,T,Q,$time);
       #2RESET=0;  T=0;
-      #4RESET=0; T=1;
-     #4RESET=1; T=0;
+      #4RESET=1; T=1;
+     #4RESET=0; T=0;
       
     end
   
