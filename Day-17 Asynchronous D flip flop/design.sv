@@ -2,7 +2,8 @@
 module dff(input d,clk,reset, output reg q );
   
   initial
-    q=0;
+    q=1;
+  
   always@(posedge clk,reset)
     begin
       if(!reset)
