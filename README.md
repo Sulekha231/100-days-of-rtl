@@ -63,3 +63,5 @@ Day-15 4 bit Synchronous up/down counter -https://www.edaplayground.com/x/GTie
 
 Day-16  T flip flop - https://www.edaplayground.com/x/KmCw
 
+Day-17 Asynchronous D Flip flop - https://www.edaplayground.com/x/mnM7
+
