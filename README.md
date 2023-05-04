@@ -31,6 +31,33 @@ EDA playground
 I'm excited to begin this challenge and look forward to sharing my progress with you all!
 
 # Here the list of day wise code 
+Day-1  3x1 Mux -  https://lnkd.in/dA57h2JQ
+
+Day-2  1x4 demux - https://lnkd.in/de-kWDup
+
+Day-3  4- bit ripple carry adder - https://lnkd.in/dZdNQ2TS
+
+Day-4 Full subtractor - https://lnkd.in/dw3WARb8
+
+Day-5 4 bit ALU - https://lnkd.in/dm4sid3P
+
+Day-6 4 bit comparator - https://lnkd.in/dWZ6uFpp
+
+Day-7 left/right shifter - https://lnkd.in/db54hm8M
+
+Day-8 PIPO register - https://lnkd.in/dZauGR3H
+
+Day-9 Priority encoder - https://lnkd.in/dJ3tM7ur
+
+Day-10 Serial In Serial Out Register - https://lnkd.in/dWCWutDa
+
+Day-11 Serial In Parallel Out Shift Register - https://lnkd.in/dqK7_feY
+
+Day-12 Ring counter -  https://lnkd.in/gfTEPs2d
+
+Day-13 Synchronous up counter -  https://lnkd.in/dcaYiR6t
+
+Day-14 Johnson Counter - https://lnkd.in/dRkvNGdS
 
 Day-15 4 bit Synchronous up/down counter -https://www.edaplayground.com/x/GTie
 
