@@ -1,0 +1,8 @@
+CLK=0, RESET=x, D=x, Q=1                    0
+CLK=1, RESET=0, D=0, Q=0                    2
+CLK=0, RESET=0, D=1, Q=0                    4
+CLK=1, RESET=0, D=1, Q=1                    6
+CLK=0, RESET=1, D=1, Q=0                    8
+CLK=1, RESET=1, D=1, Q=0                   10
+CLK=0, RESET=1, D=1, Q=0                   12
+CLK=1, RESET=1, D=1, Q=0                   14
