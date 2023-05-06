@@ -1,0 +1,15 @@
+clk=0, reset=1, in=1101, out=x                    0
+clk=1, reset=1, in=1101, out=0                    2
+clk=0, reset=0, in=1101, out=0                    4
+clk=1, reset=0, in=1101, out=1                    6
+clk=0, reset=0, in=1101, out=1                    8
+clk=1, reset=0, in=1101, out=0                   10
+clk=0, reset=0, in=1101, out=0                   12
+clk=1, reset=0, in=1101, out=1                   14
+clk=0, reset=0, in=1101, out=1                   16
+clk=1, reset=0, in=1101, out=1                   18
+clk=0, reset=0, in=1101, out=1                   20
+clk=1, reset=0, in=1101, out=0                   22
+clk=0, reset=0, in=1101, out=0                   24
+clk=1, reset=0, in=1101, out=0                   26
+clk=0, reset=0, in=1101, out=0                   28
