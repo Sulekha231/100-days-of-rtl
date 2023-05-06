@@ -1,23 +1,23 @@
 //  testbench here
 
 module tb;
-  reg [3:0]in;
-  reg clk,reset;
-  wire out;
+  reg [3:0]IN;
+  reg CLK,RESET;
+  wire OUT;
   
-  piso inst(in,clk,reset,out);
+  piso inst(IN,CLK,RESET,OUT);
   
   initial
     begin
-      clk=0;
-      forever #2clk=~clk;
+      CLK=0;
+      forever #2CLK=~CLK;
     end
    
   initial
     begin
-      $monitor("clk=%b, reset=%b, in=%b, out=%b ",clk,reset,in,out,$time);
-        reset=1; in=4'b1101;
-       #4reset=0;
+      $monitor("CLK=%b, RESET=%b, IN=%b, OUT=%b ",CLK,RESET,IN,OUT,$time);
+        RESET=1; IN=4'b1101;
+       #4RESET=0;
     end
    
   initial
