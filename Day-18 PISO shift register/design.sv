@@ -1,4 +1,5 @@
-module piso(input [3:0]in,clk,reset, output reg out);
+// Day-18 PISO shift register
+module piso(input [3:0]in, input clk,reset, output reg out);
   reg [3:0] t;
   
   initial
