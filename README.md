@@ -65,3 +65,5 @@ Day-16  T flip flop - https://www.edaplayground.com/x/KmCw
 
 Day-17 Asynchronous D Flip flop - https://www.edaplayground.com/x/mnM7
 
+ Day-18 PISO shift register - https://www.edaplayground.com/x/eRZ3
+
