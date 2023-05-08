@@ -4,7 +4,7 @@ module tb;
   reg CLK,RESET;
   wire D2,D4,D8,D16;
   
-  ripple  counter(CLK,RESET,D2,D4,D8,D16);
+ freq divider(CLK,RESET,D2,D4,D8,D16);
   
   initial
     begin
