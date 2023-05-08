@@ -1,5 +1,5 @@
 // Day-20 frequency divider
-module ripple(input clk,reset,output reg d2,d4,d8,d16);
+module freq(input clk,reset,output reg d2,d4,d8,d16);
  
   reg[3:0] c=0;
   
