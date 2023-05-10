@@ -70,3 +70,5 @@ Day-17 Asynchronous D Flip flop - https://www.edaplayground.com/x/mnM7
  Day-19 MOD-10 counter - https://www.edaplayground.com/x/KsBS
  
  Day-20 frequency divider - https://www.edaplayground.com/x/geN7
+ 
+ Day-21 master slave flip flop - https://www.edaplayground.com/x/mpdy
