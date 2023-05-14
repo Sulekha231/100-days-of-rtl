@@ -73,4 +73,4 @@ Day-17 Asynchronous D Flip flop - https://www.edaplayground.com/x/mnM7
  
  Day-21 master slave flip flop - https://www.edaplayground.com/x/mpdy
  
- Day-22  Active low SR flip flop - https://www.edaplayground.com/x/g4Zy
+ Day-22  SR flip flop - https://www.edaplayground.com/x/g4Zy
