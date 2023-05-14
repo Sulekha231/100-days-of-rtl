@@ -1,0 +1,10 @@
+CLK=0, S=0, R=0, Q=0, QBAR=1                   0
+CLK=1, S=0, R=0, Q=0, QBAR=1                   2
+CLK=0, S=0, R=1, Q=0, QBAR=1                   4
+CLK=1, S=0, R=1, Q=0, QBAR=1                   6
+CLK=0, S=1, R=0, Q=0, QBAR=1                   8
+CLK=1, S=1, R=0, Q=1, QBAR=0                  10
+CLK=0, S=1, R=1, Q=1, QBAR=0                  12
+invalid case
+CLK=1, S=1, R=1, Q=1, QBAR=1                  14
+CLK=0, S=1, R=1, Q=1, QBAR=1                  16
