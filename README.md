@@ -76,3 +76,5 @@ Day-17 Asynchronous D Flip flop - https://www.edaplayground.com/x/mnM7
  Day-22  SR flip flop - https://www.edaplayground.com/x/g4Zy
 
 Day-23 swapping of 2 no.s using nba - https://www.edaplayground.com/x/Kzb5
+
+Day-24 generation of syn_clk and  asyn_clk - https://www.edaplayground.com/x/L__E
