@@ -78,3 +78,7 @@ Day-17 Asynchronous D Flip flop - https://www.edaplayground.com/x/mnM7
 Day-23 swapping of 2 no.s using nba - https://www.edaplayground.com/x/Kzb5
 
 Day-24 generation of syn_clk and  asyn_clk - https://www.edaplayground.com/x/L__E
+
+DAY-25 sequence _1010 detector - https://www.edaplayground.com/x/bvb6
+
+Day-26 binary to gray code  converter - https://www.edaplayground.com/x/qeJ_
