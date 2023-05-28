@@ -1,0 +1,15 @@
+                   0	send the message in the mailbox with values a=3, b=15 
+                   0	receive the message from the mailbox with values a=3, b=15 
+ 
+                   5	send the message in the mailbox with values a=22, b=23 
+                   5	receive the message from the mailbox with values a=22, b=23 
+ 
+                  10	send the message in the mailbox with values a=1, b=30 
+                  10	receive the message from the mailbox with values a=1, b=30 
+ 
+                  15	send the message in the mailbox with values a=9, b=15 
+                  15	receive the message from the mailbox with values a=9, b=15 
+ 
+                  20	send the message in the mailbox with values a=13, b=31 
+                  20	receive the message from the mailbox with values a=13, b=31 
+ 
