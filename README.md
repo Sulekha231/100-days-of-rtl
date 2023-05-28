@@ -82,3 +82,5 @@ Day-24 generation of syn_clk and  asyn_clk - https://www.edaplayground.com/x/L__
 DAY-25 sequence _1010 detector - https://www.edaplayground.com/x/bvb6
 
 Day-26 binary to gray code  converter - https://www.edaplayground.com/x/qeJ_
+
+Day-27 TB to verify mailbox - https://www.edaplayground.com/x/7ri7
