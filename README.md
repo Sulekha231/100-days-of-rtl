@@ -84,3 +84,5 @@ DAY-25 sequence _1010 detector - https://www.edaplayground.com/x/bvb6
 Day-26 binary to gray code  converter - https://www.edaplayground.com/x/qeJ_
 
 Day-27 TB to verify mailbox - https://www.edaplayground.com/x/7ri7
+
+Day-28 traffic_light_controller - https://www.edaplayground.com/x/X6nw
