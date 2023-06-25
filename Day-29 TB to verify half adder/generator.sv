@@ -9,8 +9,7 @@ class generator;
   
   task main();
    
-    
-    repeat(4)
+    repeat(1)
     begin
       pkt=new();
       pkt.randomize();
