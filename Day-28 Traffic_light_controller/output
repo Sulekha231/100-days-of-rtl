@@ -1,0 +1,13 @@
+                   0	HIGHWAY : xx, COUNTRY ROAD : xx, cars_on_country_road :0  
+                   5	HIGHWAY : 10, COUNTRY ROAD : 00, cars_on_country_road :0  
+                 200	HIGHWAY : 10, COUNTRY ROAD : 00, cars_on_country_road :1  
+                 205	HIGHWAY : 01, COUNTRY ROAD : 00, cars_on_country_road :1  
+                 245	HIGHWAY : 00, COUNTRY ROAD : 00, cars_on_country_road :1  
+                 275	HIGHWAY : 00, COUNTRY ROAD : 10, cars_on_country_road :1  
+                 300	HIGHWAY : 00, COUNTRY ROAD : 10, cars_on_country_road :0  
+                 305	HIGHWAY : 00, COUNTRY ROAD : 01, cars_on_country_road :0  
+                 345	HIGHWAY : 10, COUNTRY ROAD : 00, cars_on_country_road :0  
+                 500	HIGHWAY : 10, COUNTRY ROAD : 00, cars_on_country_road :1  
+                 505	HIGHWAY : 01, COUNTRY ROAD : 00, cars_on_country_road :1  
+                 545	HIGHWAY : 00, COUNTRY ROAD : 00, cars_on_country_road :1  
+                 575	HIGHWAY : 00, COUNTRY ROAD : 10, cars_on_country_road :1  
