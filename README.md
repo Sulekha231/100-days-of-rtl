@@ -86,3 +86,5 @@ Day-26 binary to gray code  converter - https://www.edaplayground.com/x/qeJ_
 Day-27 TB to verify mailbox - https://www.edaplayground.com/x/7ri7
 
 Day-28 traffic_light_controller - https://www.edaplayground.com/x/X6nw
+
+Day-29 TB to verify half adder - https://www.edaplayground.com/x/nN5N
