@@ -3,7 +3,7 @@
 module testbench;
   wire[1:0] H,C;
   reg RESET,cars_on_country_road ;
-  bit CLK;
+  reg CLK=1'b0;
   traffic_signal_controller  inst(.hwy(H), .country(C), .clk(CLK),.reset(RESET),.x(cars_on_country_road));
   
   always
