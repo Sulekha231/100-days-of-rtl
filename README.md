@@ -88,3 +88,5 @@ Day-27 TB to verify mailbox - https://www.edaplayground.com/x/7ri7
 Day-28 traffic_light_controller - https://www.edaplayground.com/x/X6nw
 
 Day-29 TB to verify half adder - https://www.edaplayground.com/x/nN5N
+
+Day-30 TB to verify Full adder - https://www.edaplayground.com/x/cE5k
